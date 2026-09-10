@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **amar2202005@gmail.com** for Collaboration / Projects or A
 - 🤔 **I’m looking for help with:** Scaling n8n + LLM workflows to production
 - 💬 **Ask me about:** MERN, REST + MVC architecture, RAG pipelines, n8n automation
 - 📫 **How to reach me:** amar2202005@gmail.com
-- 😄 **Pronouns:** they/them
+- 😄 **Pronouns:** he/him
 - ⚡ **Fun fact:** I once turned a college bus queue of 200+ students into a web form and a live map
 
 ## 🔗 Links
